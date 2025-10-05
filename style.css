@@ -1,0 +1,12 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+ul#output {
+    padding-left: 0;
+}
+
+ul#output li {
+    padding: 5px 0;
+}
